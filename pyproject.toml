@@ -1,0 +1,18 @@
+[project]
+name = "hotel-booking-bot"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "anthropic>=0.25.0",
+    "sqlalchemy>=2.0",
+    "psycopg2-binary>=2.9",
+    "pydantic>=2.0",
+    "streamlit>=1.35",
+    "python-dotenv>=1.0",
+    "requests>=2.34.2",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.0",
+]
