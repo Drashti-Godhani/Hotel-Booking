@@ -3,7 +3,6 @@
 A terminal-based AI-powered hotel booking assistant that collects guest information through natural conversation and automatically sends a formatted email to the hotel owner.
 
 ---
-
 ## 💡 How It Works
 
 1. Customer chats with the AI bot in the terminal
@@ -32,6 +31,8 @@ PostgreSQL Database
 Email Service (Gmail SMTP) → Hotel Owner
 
 ---
+
+<img width="1717" height="916" alt="ChatGPT Image Jun 18, 2026, 02_08_02 PM" src="https://github.com/user-attachments/assets/31539b63-9297-4949-b86e-99711b69a82b" />
 
 ## 🛠️ Tech Stack
 
